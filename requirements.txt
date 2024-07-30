@@ -15,7 +15,7 @@ joblib
 jsonschema
 jsonschema-specifications
 markdown-it-py
-MarkupSafe\
+MarkupSafemdurl
 mdurl
 numpy
 packaging
