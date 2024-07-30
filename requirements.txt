@@ -8,14 +8,12 @@ click
 colorama
 gitdb
 GitPython
-gunicorn
 idna
 Jinja2
 joblib
 jsonschema
 jsonschema-specifications
 markdown-it-py
-MarkupSafemdurl
 mdurl
 numpy
 packaging
@@ -41,7 +39,7 @@ threadpoolctl
 toml
 toolz
 tornado
-typing_extensions==4.12.2
-tzdata==2024.1
-urllib3==2.2.2
-watchdog==4.0.1
+typing_extensions
+tzdata
+urllib3
+watchdog
